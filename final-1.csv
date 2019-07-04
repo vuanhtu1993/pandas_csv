@@ -1,0 +1,894 @@
+,GQ id,name,EAN id,Kmeans with 6cluster ,Kmeans with 5 cluster ,BinaryClustring 5 ,BinaryClustring 6 ,Hierarchical Clustering 5,Hierarchical Clustering 6 ,Hybrid Clustring 5 
+0,8299,Royale Chulan Bukit Bintang,8299,2,2,5,1,1,6,1
+1,370971,Best Western Petaling Jaya,370971,2,2,5,1,1,6,1
+2,231229,Leo Express Hotel,231229,3,3,3,3,4,4,5
+3,197199,Furama Bukit Bintang,197199,2,2,5,1,5,1,1
+4,19164,Grand Millennium Kuala Lumpur,19164,2,2,5,1,5,1,2
+5,217846,Citin Seacare Pudu by Compass Hospitality,217846,3,5,2,3,4,4,3
+6,19118,Seri Pacific Hotel Kuala Lumpur,19118,4,4,4,4,5,1,2
+7,261502,Aloft Kuala Lumpur Sentral,261502,2,2,5,1,5,1,2
+8,51200,Hilton Petaling Jaya,51200,4,4,4,4,5,1,2
+9,80700,ANSA Kuala Lumpur,80700,3,3,3,3,4,4,3
+10,12525,JW Marriott Hotel Kuala Lumpur,12525,4,4,4,4,5,1,2
+11,217827,Sunway Putra Hotel,217827,4,4,4,4,5,1,2
+12,83474,Eastin Hotel Kuala Lumpur,83474,2,2,5,1,1,6,1
+13,35764,Pullman KL City Centre,35764,4,4,4,4,5,5,2
+14,499929,VE Hotel & Residence,499929,2,2,5,1,5,1,1
+15,362161,Silka Cheras,362161,5,2,5,2,1,6,1
+16,60868,Le Meridien Kuala Lumpur,60868,2,2,5,1,1,6,1
+17,374209,Royale Chulan Damansara,374209,2,2,5,1,1,6,1
+18,168269,Citin MasJid Jamek by Compass Hospitality,168269,3,3,3,3,4,4,3
+19,77352,One World Hotel,77352,2,2,5,1,5,1,1
+20,73416,Dorsett Grand Subang,73416,2,2,5,1,5,1,2
+21,376160,Le Apple Boutique Hotel KLCC,376160,5,3,3,2,1,6,1
+22,187510,Doubletree By Hilton Kuala Lumpur,187510,2,4,4,4,5,1,2
+23,80701,Royal Kuala Lumpur,80701,5,2,5,2,1,6,1
+24,29388,Melia Kuala Lumpur,29388,5,2,5,2,1,6,1
+25,237844,Ibis Styles Kl Fraser Business,237844,2,2,5,1,5,1,2
+26,66732,Holiday Villa Hotel and Suites Subang,66732,2,2,5,1,1,6,1
+27,66657,Concorde Hotel Kuala Lumpur,66657,4,4,4,4,5,1,2
+28,40392,The Westin Kuala Lumpur,40392,2,2,5,1,5,1,2
+29,217831,Max Star Hotel,217831,6,5,2,5,2,2,3
+30,47743,Vistana Kuala Lumpur Titiwangsa,47743,2,2,5,1,1,6,1
+31,17926,Shangri-La Hotel - Kuala Lumpur,17926,4,4,4,4,5,1,2
+32,14554,Corus Hotel Kuala Lumpur,14554,2,2,5,1,1,6,1
+33,5385,Capitol Hotel Kuala Lumpur,5385,5,3,3,2,1,6,1
+34,231238,Le Apple Boutique Hotel,231238,6,5,2,5,2,2,4
+35,66276,Traders Hotel Kuala Lumpur,66276,4,4,4,4,5,1,2
+36,60207,Novotel Kuala Lumpur,60207,5,2,5,2,1,6,1
+37,40968,Hilton Kuala Lumpur,40968,2,2,5,1,5,1,2
+38,15473,Sama Sama Hotels,15473,2,2,5,1,5,1,1
+39,252010,Ramada Plaza Kuala Lumpur,252010,2,2,5,1,1,6,1
+40,251855,E&O Residence Kuala Lumpur,251855,5,3,3,2,1,6,1
+41,249125,"The Majestic Kuala Lumpur, Autograph Collection",249125,5,2,5,2,1,6,1
+42,217864,"Sunway Resort Hotel & Spa, Kuala Lumpur",217864,2,2,5,1,5,1,1
+43,196232,Empire Hotel Subang,196232,5,3,3,2,1,6,1
+44,64267,Cititel Mid Valley,64267,4,4,4,4,5,1,2
+45,18739,Swiss Inn Chinatown Kuala Lumpur,18739,3,3,3,3,4,4,3
+46,17001,The Ritz-Carlton Kuala Lumpur,17001,2,2,5,1,1,6,1
+47,498943,Sunway Clio Hotel,498943,2,2,5,1,1,6,1
+48,196227,Sentral Pudu,196227,3,3,3,3,4,4,3
+49,176502,Prescott Hotel Kuala Lumpur - Medan Tuanku,176502,3,3,3,3,4,4,3
+50,73717,Maya Kuala Lumpur,73717,5,3,3,2,1,6,1
+51,12374,Hotel Istana Kuala Lumpur City Center,12374,2,2,5,1,5,1,2
+52,540913,Somerset Damansara Uptown Petaling,540913,5,3,3,2,1,6,1
+53,375273,Transit Kuala Lumpur,375273,3,3,3,3,4,4,5
+54,362518,Tune Hotel - Klia2,362518,2,2,5,1,5,1,1
+55,194669,Somerset Kuala Lumpur,194669,5,3,3,2,1,6,1
+56,190639,Parkroyal Serviced Suites Kuala Lumpur,190639,5,2,5,2,1,6,1
+57,68018,PNB Perdana Hotel & Suites On The Park,68018,2,2,5,1,1,6,1
+58,11162,Grand Pacific Hotel Kuala Lumpur,11162,3,3,3,3,4,4,5
+59,493089,Holiday Inn Express Kuala Lumpur City Centre,493089,2,2,5,1,1,6,1
+60,463979,Dorsett Putrajaya,463979,5,3,3,2,1,6,1
+61,399883,Izumi Hotel Bukit Bintang,399883,3,3,3,3,4,4,3
+62,362557,Sandpiper Hotel,362557,3,5,2,3,4,4,5
+63,312386,Vivatel Kuala Lumpur,312386,5,2,5,2,1,6,1
+64,312201,Arenaa Star,312201,5,3,3,2,1,6,1
+65,231240,Travelodge City Centre,231240,5,3,3,2,1,6,1
+66,217858,Sky Hotel Bukit Bintang,217858,3,3,3,3,4,4,3
+67,163133,Fraser Place Kuala Lumpur,163133,5,2,5,2,1,6,1
+68,60869,Pacific Regency Hotel Suites,60869,5,2,5,2,1,6,1
+69,35753,The Federal Kuala Lumpur,35753,2,2,5,1,5,1,2
+70,448328,e.City Hotel at OneCity,448328,5,3,3,2,1,6,1
+71,377176,The Everly Putrajaya,377176,2,2,5,1,1,6,1
+72,376368,Tune Hotel - DPulze Cyberjaya,376368,3,3,3,3,4,4,5
+73,374946,O'Boutique Suites,374946,6,5,2,5,2,2,4
+74,364063,Hotel 99 Pudu,364063,3,3,3,3,4,4,3
+75,364062,Citadines DPulze Cyberjaya,364062,5,3,3,2,1,6,1
+76,362558,Pacific Express Hotel Central Market Kuala Lumpur,362558,5,3,3,2,1,6,1
+77,362517,Four Points by Sheraton Puchong,362517,5,3,3,2,1,6,1
+78,346514,Capri By Fraser - Hotel Residence,346514,5,3,3,2,1,6,1
+79,217038,Ancasa Express @ Pudu,217038,3,3,3,3,4,4,3
+80,173525,Leo Palace Hotel,173525,5,2,5,2,1,6,1
+81,83135,Concorde Shah Alam,83135,2,2,5,1,1,6,1
+82,79633,Royale Chulan The Curve,79633,3,3,3,3,4,4,3
+83,73927,Hilton Garden Inn Kuala Lumpur North Tower,73927,5,3,3,2,1,6,1
+84,68633,Ascott Kuala Lumpur,68633,5,3,3,2,1,6,1
+85,68619,RegalPark Hotel Kuala Lumpur,68619,3,3,3,3,4,4,3
+86,66123,The Zon All Suites Residences on the Park K L,66123,5,3,3,2,4,4,3
+87,65991,Ambassador Row Hotel Suites by Lanson Place,65991,5,3,3,2,1,6,1
+88,16322,Summit Hotel KL City Centre,16322,5,3,3,2,1,6,1
+89,11670,Evergreen Lodge at Vail,11670,5,3,3,2,1,6,1
+90,501772,Nu Hotel@ Kl Sentral,501772,3,5,2,3,4,4,4
+91,480454,Oasia Suites Kuala Lumpur,480454,5,3,3,2,1,6,1
+92,474302,Sama-Sama Express Klia 2,474302,6,5,2,5,2,2,3
+93,473737,The Kuala Lumpur Journal,473737,3,3,3,3,4,4,3
+94,433496,Kip Hotel Kuala Lumpur,433496,5,3,3,2,1,6,1
+95,397516,Valenza Hotel & Cafe,397516,3,5,2,3,4,4,4
+96,378532,V'La Heritage Hotel,378532,6,5,2,5,2,2,4
+97,378492,Prescott Hotel Kuala Lumpur Sentral,378492,3,3,3,3,4,4,3
+98,378459,Mandarin Pacific Hotel,378459,3,3,3,3,4,4,3
+99,377371,The Grand Campbell Hotel,377371,3,3,3,3,4,4,3
+100,376291,D'Majestic by Swiss Garden,376291,5,3,3,2,4,4,3
+101,368671,Sama-Sama Express KL International Airport,368671,3,5,2,3,4,4,4
+102,362155,Ascott Sentral Kuala Lumpur,362155,3,3,3,3,4,4,3
+103,359150,Greystone Boutique Hotel,359150,6,5,2,5,2,2,4
+104,356751,Pudu Plaza,356751,2,2,5,1,1,6,1
+105,231243,My Hotel @ Bukit Bintang,231243,3,5,2,3,4,4,3
+106,206667,Frenz Hotel Kuala Lumpur,206667,3,5,2,3,4,4,3
+107,187811,GTower Hotel Kuala Lumpur,187811,3,3,3,2,4,4,3
+108,176668,Hotel Rae Bukit Bintang,176668,6,5,2,5,2,2,3
+109,164438,StarPoints Hotel Kuala Lumpur,164438,3,3,3,3,4,4,3
+110,127062,The Saujana Kuala Lumpur,127062,2,2,5,1,1,6,1
+111,104329,Bangi Resort Hotel (Formerly known as Hotel Bangi-Putrajaya),104329,5,3,3,2,1,6,1
+112,104326,Somerset Seri Bukit Ceylon,104326,3,5,2,3,4,4,3
+113,68621,InterContinental Kuala Lumpur,68621,2,2,5,1,5,1,2
+114,68009,Resorts World Genting - First World Hotel,68009,1,1,1,6,3,3,2
+115,59258,The Boulevard - A St Giles Hotel,59258,2,2,5,1,1,6,1
+116,40376,Dynasty Hotel Kuala Lumpur,40376,4,4,4,4,5,5,2
+117,17983,Sheraton Imperial Kuala Lumpur Hotel,17983,2,2,5,1,1,6,1
+118,16793,Renaissance Kuala Lumpur Hotel,16793,4,4,4,4,5,5,2
+119,563352,"Hotel Stripes Kuala Lumpur, Autograph Collection",563352,5,3,3,2,4,4,3
+120,562571,Grand Ion Delemen Hotel Genting Highlands,562571,4,4,4,4,5,1,2
+121,546379,Pegasus Hotel Shah Alam,546379,5,3,3,2,1,6,5
+122,537394,Avenue J Hotel Central Market Kuala Lumpur,537394,6,5,2,5,2,2,3
+123,534372,Yija Hotel,534372,6,5,2,5,2,2,4
+124,510799,Mercure Kl Shaw Parade,510799,5,3,3,2,1,6,1
+125,454589,Casa Residency,454589,6,5,2,5,2,2,3
+126,419043,Easy Hotel,419043,3,5,2,3,4,4,5
+127,417793,Sri Langit Hotel KLIA,417793,3,5,2,3,4,4,3
+128,417229,Best Western I-City,417229,5,3,3,2,1,6,1
+129,411187,Sasana Hotel,411187,6,5,2,5,2,2,4
+130,410103,Imperial,410103,3,5,2,3,4,4,4
+131,408690,New Wave Hotel  Seri  Kembangan,408690,6,5,2,5,2,2,4
+132,402125,ZEN Rooms Chinatown KL,402125,6,5,2,5,2,2,4
+133,401656,ZEN Rooms Twin Hotel,401656,6,5,2,5,2,2,4
+134,401168,ZEN Rooms Sakura Boutique Hotel,401168,6,5,2,5,2,2,4
+135,401091,Manhattan Business Hotel Damansara Perdana,401091,6,5,2,5,2,2,4
+136,399887,Cairnhill Hotel Kuala Lumpur,399887,3,3,3,3,4,4,5
+137,399489,Sky Star Hotel @ KLIA/KLIA2,399489,6,5,2,5,2,2,3
+138,399367,Rain Forest Hotel,399367,6,5,2,5,2,2,4
+139,397893,Smile Hotel USJ,397893,6,5,2,5,2,2,4
+140,397778,ZEN Rooms Neotel Hotels,397778,3,3,3,3,4,4,5
+141,395831,Smile Hotel Selayang Point,395831,6,5,2,5,2,2,4
+142,378618,Crossroads Hotel,378618,6,5,2,5,2,2,3
+143,378533,OYO 109 V LA PARK HOTEL,378533,6,5,2,5,2,2,4
+144,378470,My Hotel @ Sentral 2,378470,6,5,2,5,2,2,3
+145,378455,Le Quadri Hotel,378455,3,5,2,3,4,4,3
+146,378452,K Hotel,378452,6,5,2,5,2,2,3
+147,378373,The Youniq Hotel,378373,6,5,2,5,2,2,3
+148,377659,Ceria Boutique Hotel Bukit Bintang,377659,6,5,2,5,2,2,4
+149,376161,Container Hotel,376161,6,5,2,5,2,2,4
+150,374978,De Palma Hotel Ampang,374978,5,3,3,2,1,6,1
+151,371236,The Marque Hotel,371236,6,5,2,5,2,2,3
+152,369391,Gardens Hotel & Residences Kuala Lumpur,369391,4,4,4,4,5,1,2
+153,362516,Club Dolphin,362516,3,5,2,3,4,4,3
+154,337761,Lanson Place Bukit Ceylon Serviced Residences,337761,3,3,3,3,4,4,3
+155,265315,Peninsular Resident,265315,3,3,3,3,4,4,5
+156,237843,D'Garden Boutique Hotel,237843,6,5,2,5,2,2,4
+157,231237,Bukit Bintang T Hotel,231237,6,5,2,5,2,2,4
+158,231235,Victory Street Boutique Hotel,231235,6,5,2,5,2,2,4
+159,219843,Nouvelle Hotel Kuala Lumpur,219843,2,2,5,1,1,6,5
+160,217865,The Regency Kuala Lumpur,217865,5,2,5,2,1,6,1
+161,217855,Prescott Hotel Kajang,217855,3,5,2,3,4,4,3
+162,217849,My Hotel @ Sentral,217849,3,5,2,3,4,4,3
+163,217844,Summer View Hotel,217844,3,5,2,3,4,4,5
+164,217833,Bintang Warisan Hotel,217833,3,3,3,3,4,4,3
+165,217828,The 5 Elements Hotel,217828,3,5,2,3,4,4,5
+166,217039,One-Stop Residence Hotel & Office,217039,5,3,3,2,1,6,1
+167,216092,Damas Suites & Residences,216092,5,3,3,2,4,4,3
+168,205521,Grand Hyatt Kuala Lumpur,205521,2,2,5,1,1,6,1
+169,201161,Fahrenheit Suites Kuala Lumpur,201161,3,5,2,3,4,4,3
+170,186842,Hotel Maluri,186842,5,3,3,2,1,6,1
+171,148791,Avani Sepang Goldcoast Resort,148791,2,2,5,1,1,6,1
+172,111356,Grand Blue Wave Shah Alam,111356,2,2,5,1,1,6,1
+173,87105,Summit Hotel Subang USJ,87105,2,2,5,1,1,6,1
+174,72913,Alpha Genesis Hotel Kuala Lumpur,72913,3,3,3,3,4,4,3
+175,70617,Mandarin Court Hotel Kuala Lumpur,70617,5,3,3,2,1,6,1
+176,68840,Pulse Grande Hotel formerly Putrajaya Shangri-La H,68840,3,3,3,3,4,4,3
+177,68006,Resorts World Awana,68006,2,2,5,1,1,6,1
+178,67727,The Pearl Kuala Lumpur,67727,4,4,4,4,5,1,2
+179,64413,MiCasa All Suites Hotel Kuala Lumpur,64413,5,3,3,2,1,6,1
+180,58777,AnCasa Hotel Kuala Lumpur,58777,5,2,5,2,1,6,1
+181,58183,Empress Hotel Sepang,58183,5,2,5,2,1,6,1
+182,41484,D-Villa Residence Kuala Lumpur,41484,6,5,2,5,2,2,3
+183,13916,Mandarin Oriental Kuala Lumpur,13916,4,4,4,4,5,1,2
+184,11105,Grand Continental,11105,5,2,5,1,1,6,1
+185,2809428,Hotel Amara,2809428,6,5,2,5,2,2,4
+186,2809322,Big M Hotel,2809322,3,5,2,3,4,4,4
+187,2804679,OYO 530 DD Hotel,2804679,6,5,2,5,2,2,4
+188,2804665,Drop Inn Lodge City Centre,2804665,6,5,2,5,2,2,4
+189,2804658,Hotel 916,2804658,6,5,2,5,2,2,4
+190,2804657,Victory 3 Hotel,2804657,6,5,2,5,2,2,4
+191,2798684,Paper Plane Hostel,2798684,6,5,2,5,2,2,4
+192,2797949,Hotel Trillium,2797949,6,5,2,5,2,2,4
+193,2783696,Banyan Tree Kuala Lumpur,2783696,6,5,2,5,2,2,3
+194,2769782,The Face Suites,2769782,5,3,3,2,1,6,1
+195,2759236,Sovotel Boutique Hotel Kota D'sara 8,2759236,6,5,2,5,2,2,4
+196,2758646,One 5 Residence Homestay,2758646,6,5,2,5,2,2,4
+197,2757648,NowHere Boutique Suites @ EST KL Sentral,2757648,6,5,2,5,2,2,3
+198,2757410,Mov Hotel,2757410,3,3,3,3,4,4,5
+199,2755202,Bunk & Bilik Hotel Sri Petaling,2755202,6,5,2,5,2,2,4
+200,2755058,Bespoke Hotel Puchong,2755058,3,3,3,3,4,4,3
+201,2750216,Nadia Damansara Damai Homestay,2750216,6,5,2,5,2,2,4
+202,2749682,Homestay in Amber Court,2749682,6,5,2,5,2,2,4
+203,2749264,Tribeca Hotel and Serviced Suites,2749264,3,3,3,3,4,4,3
+204,2749118,Villa Solihin,2749118,6,5,2,5,2,2,4
+205,2748847,City Comfort Hotel Kuala Lumpur City Centre,2748847,3,5,2,3,4,4,3
+206,2748729,Hotel Grand Palace Ampang,2748729,6,5,2,5,2,2,4
+207,2747028,Fardain Place,2747028,6,5,2,5,2,2,4
+208,2746961,Euzmo Residences at Trefoil,2746961,6,5,2,5,2,2,4
+209,2746907,I-City I-Soho Shah Alam Homestay,2746907,6,5,2,5,2,2,4
+210,2746880,Aurel Guesthouse Bangi,2746880,6,5,2,5,2,2,4
+211,2746823,Go Daily service,2746823,6,5,2,5,2,2,4
+212,2746804,Karma's Inn,2746804,6,5,2,5,2,2,4
+213,2743995,Pandora Spring Villa,2743995,6,5,2,5,2,2,4
+214,2742833,ARK Hotel Subang Airport,2742833,6,5,2,5,2,2,4
+215,2741699,Agape Hotel,2741699,6,5,2,5,2,2,4
+216,2741408,The b'Hotel Kajang,2741408,6,5,2,5,2,2,4
+217,2741244,Bunker Hotel & Restaurant,2741244,6,5,2,5,2,2,4
+218,2741125,S8 Boutique Hotel,2741125,6,5,2,5,2,2,4
+219,2740829,Magnum Hometel,2740829,6,5,2,5,2,2,4
+220,2740596,PJ De Inn,2740596,6,5,2,5,2,2,4
+221,2740430,Q One Hotel Dengkil,2740430,6,5,2,5,2,2,4
+222,2739745,RHR Hotel @ Selayang,2739745,6,5,2,5,2,2,4
+223,2739660,Hotel Mercury,2739660,6,5,2,5,2,2,4
+224,2739361,Lisa De Inn,2739361,3,5,2,3,4,4,4
+225,2738592,Cintamani Travellers Lodge,2738592,6,5,2,5,2,2,4
+226,2737836,Maha Hotel,2737836,6,5,2,5,2,2,4
+227,2737642,U3 Hotel,2737642,6,5,2,5,2,2,4
+228,2737555,iO Hotel,2737555,6,5,2,5,2,2,4
+229,2737451,Ariva Trillion Residences,2737451,5,3,3,2,1,6,5
+230,2737438,Space Hotel @ China Town Kuala Lumpur,2737438,3,5,2,3,4,4,4
+231,2736945,M Premium Petalz Residence,2736945,6,5,2,5,2,2,4
+232,2735576,Dr. Shaz Summer House,2735576,6,5,2,5,2,2,4
+233,2735314,SUDO GuestHouse,2735314,6,5,2,5,2,2,4
+234,2734960,Bunk & Bilik Hotel Jalan Ipoh,2734960,6,5,2,5,2,2,4
+235,2734505,Pine Cone @ Avantas Mid Valley,2734505,6,5,2,5,2,2,4
+236,2734119,"Aerotel Kuala Lumpur (Airport Hotel), gateway@klia2",2734119,6,5,2,3,4,4,4
+237,2734027,Hotel de Art USJ 21,2734027,6,5,2,5,2,2,4
+238,2733942,ZEN Rooms KL Sentral,2733942,6,5,2,5,2,2,4
+239,2732913,Capsule Town Hotel,2732913,3,5,2,3,4,4,4
+240,2732748,Red By Sirocco,2732748,3,3,3,3,4,4,5
+241,2731784,New World Petaling Jaya Hotel,2731784,5,2,5,2,1,6,1
+242,2731747,MERCURE SELANGOR SELAYANG,2731747,3,3,3,3,4,4,3
+243,2731475,Four Seasons Kuala Lumpur,2731475,5,3,3,2,1,6,1
+244,2730534,G Traveler Accommodation - Hostel,2730534,6,5,2,5,2,2,4
+245,2729906,Wadi Iman Guesthouse - i-City,2729906,6,5,2,5,2,2,4
+246,2729223,Diamondsuite at Times Square KL,2729223,6,5,2,5,2,2,4
+247,2729073,Dorms KL 2,2729073,3,5,2,3,4,4,4
+248,2728856,Avenue Garden Hotel,2728856,3,3,3,2,4,4,5
+249,2728752,Dorms KL,2728752,6,5,2,5,2,2,4
+250,2728702,Step Inn Too,2728702,6,5,2,5,2,2,4
+251,2720049,Cyberjaya Studio Suites,2720049,6,5,2,5,2,2,4
+252,2719915,Little Home at Green Residence Cheras,2719915,6,5,2,5,2,2,4
+253,2719798,ROMANCE PEANUT HOUSE @TREFOIL SETIA ALAM,2719798,6,5,2,5,2,2,3
+254,2719795,Cozy Homes D'Latour,2719795,3,5,2,3,4,4,5
+255,2719794,Richmond & Aston Kiara Suites KL,2719794,6,5,2,5,2,2,3
+256,2719789,Pinnacle PJ @ Penguin Homes,2719789,6,5,2,5,2,2,4
+257,2719720,AirPorter Bukit Bintang Residence,2719720,6,5,2,5,2,2,3
+258,2719719,Orange Hotels Kota Warisan at KLIA,2719719,6,5,2,5,2,2,4
+259,2719665,Icon City PJ,2719665,6,5,2,5,2,2,4
+260,2719664,De Accommodation,2719664,6,5,2,5,2,2,4
+261,2719654,Hotel 99 - Kota Kemuning,2719654,6,5,2,5,2,2,4
+262,2719632,Just In Hotel,2719632,6,5,2,5,2,2,4
+263,2719601,New Wave Hotel Batu Caves,2719601,6,5,2,5,2,2,4
+264,2719555,Da Men Suites S by Subhome,2719555,6,5,2,5,2,2,4
+265,2719545,188 Serviced Suites & Shortstay Apartments,2719545,6,5,2,5,2,2,3
+266,2719500,Damai 88 KLCC by Luxury Suites Asia,2719500,6,5,2,5,2,2,4
+267,2719495,"Alila Bangsar, Kuala Lumpur",2719495,3,3,3,3,4,4,3
+268,2718789,Balkoni Hijau at Casa Mutiara KL,2718789,6,5,2,5,2,2,4
+269,2718784,Bing Suites,2718784,6,5,2,5,2,2,3
+270,2717652,Saba Suites at Vortex KLCC Bukit Bintang,2717652,6,5,2,5,2,2,3
+271,2717609,Royal Apartments at Taragon KL,2717609,6,5,2,5,2,2,4
+272,2717566,Sovotel Boutique Hotel - Kota D'sara 38A,2717566,6,5,2,5,2,2,4
+273,2717538,Hotel 99 - Kelana Jaya,2717538,6,5,2,5,2,2,4
+274,2717420,Cozy Hotel @ KL Sentral,2717420,6,5,2,5,2,2,4
+275,2717399,Daily Suites Atria,2717399,6,5,2,5,2,2,3
+276,2717386,Hotel 99 - Kepong,2717386,6,5,2,5,2,2,4
+277,2717375,R&D Stay Services,2717375,6,5,2,5,2,2,3
+278,2714695,ABS Bintang Guest House,2714695,6,5,2,5,2,2,4
+279,2714381,City View Hotel Kota Warisan,2714381,6,5,2,5,2,2,4
+280,2714149,Empire Damansara Guesthouse,2714149,6,5,2,5,2,2,4
+281,2713457,Casa Residence Suites,2713457,6,5,2,5,2,2,4
+282,2713295,Dreamville Hostel Kuala Lumpur,2713295,6,5,2,5,2,2,4
+283,2713141,City Central Hotel,2713141,3,5,2,3,4,4,4
+284,2712995,Homie KL - Hostel,2712995,6,5,2,5,2,2,4
+285,2712921,Riccarton Capsule Hotel - Hostel,2712921,3,3,3,3,4,4,5
+286,2712619,Grocers Inn Backpackers,2712619,6,5,2,5,2,2,4
+287,2712604,Check In Hotel,2712604,6,5,2,5,2,2,4
+288,2712508,U-STAY,2712508,6,5,2,5,2,2,4
+289,2711353,ZEN Rooms Sahabat Guesthouse,2711353,6,5,2,5,2,2,4
+290,2711203,OYO 512 â€‹â€‹Havenue Hotel,2711203,6,5,2,5,2,2,4
+291,2711189,Don's Den Hotel,2711189,6,5,2,5,2,2,4
+292,2707599,New Kajang Hotel,2707599,6,5,2,5,2,2,4
+293,2703796,Akar Hotel Jalan TAR,2703796,6,5,2,5,2,2,4
+294,2703785,ZEN Rooms Basic Near I-City,2703785,6,5,2,5,2,2,4
+295,2703732,La Putri Boutique Hotel,2703732,6,5,2,5,2,2,4
+296,2703681,Artisan Eco Hotel,2703681,6,5,2,5,2,2,4
+297,2703534,Euro Life Hotel KL Sentral,2703534,6,5,2,5,2,2,4
+298,2703288,ZEN Rooms Sunjoy9 Hotel,2703288,6,5,2,5,2,2,4
+299,2703180,M & M Hotel KL Sentral,2703180,6,5,2,5,2,2,4
+300,2703146,N3 BOUTIQUE HOTEL,2703146,6,5,2,5,2,2,4
+301,2703084,Soho Hotel Semenyih,2703084,6,5,2,5,2,2,4
+302,2702916,Manhattan Business Hotel TTDI,2702916,6,5,2,5,2,2,3
+303,2702911,Tian Jing Hotel,2702911,6,5,2,5,2,2,4
+304,2702899,BB Inn Chow Kit,2702899,6,5,2,5,2,2,4
+305,2702883,Hotel Twenty 8B,2702883,6,5,2,5,2,2,3
+306,2702858,Bloommaze Boutique Hotel,2702858,6,5,2,5,2,2,4
+307,2702682,Lisora Hotel,2702682,6,5,2,5,2,2,4
+308,2702673,Hotel Tenera Bandar Baru Bangi,2702673,2,2,5,1,5,1,5
+309,2702565,Hill Inn Hotel Batu Cave,2702565,3,5,2,3,4,4,4
+310,2702510,9 Square Hotel - Sri Kembangan,2702510,6,5,2,5,2,2,4
+311,2702488,MTREE Hotel,2702488,3,3,3,2,4,4,5
+312,2702455,ZigZag Travellers Home (Formerly known as Marquee Guest Houzz),2702455,6,5,2,5,2,2,4
+313,2702443,Ahyu hotel,2702443,6,5,2,5,2,2,3
+314,2702426,Musse Hotel,2702426,6,5,2,5,2,2,4
+315,2702348,OYO 337 Iris Hotel,2702348,6,5,2,5,2,2,4
+316,2702314,The Bodhi Lodge - Hostel,2702314,6,5,2,5,2,2,4
+317,2702294,OYO 327 Buddy's Hotel,2702294,6,5,2,5,2,2,4
+318,2702235,Hotel Hamilas,2702235,6,5,2,5,2,2,4
+319,2702223,KK Hotel Jalan Pahang,2702223,6,5,2,5,2,2,4
+320,2702210,Lavender Inn Usj,2702210,6,5,2,5,2,2,4
+321,2702194,ASHLEY Boutique Hotel,2702194,6,5,2,5,2,2,4
+322,2702163,Roof Garden Hotel,2702163,6,5,2,5,2,2,4
+323,2702143,OYO 326 TC Hotel,2702143,6,5,2,5,2,2,4
+324,2702018,InnB Park Hotel,2702018,3,3,3,3,4,4,5
+325,2701991,One Enigma Hotel,2701991,6,5,2,5,2,2,4
+326,2701968,De Grand Boutique Hotel,2701968,6,5,2,5,2,2,4
+327,2701961,OYO 330 Cchinee Hotel,2701961,6,5,2,5,2,2,4
+328,2701929,HYD Hotel Wangsa Maju,2701929,6,5,2,5,2,2,4
+329,2701882,Hotel Sunbeam Palm,2701882,6,5,2,5,2,2,4
+330,2701862,Hotel Elwarda KL City,2701862,6,5,2,5,2,2,4
+331,2701812,Kristal Inn Hotel,2701812,6,5,2,5,2,2,4
+332,2701651,Putra Heights New Wave Hotel,2701651,6,5,2,5,2,2,4
+333,2701588,Best View Boutique Hotel Kota Kemuning,2701588,6,5,2,5,2,2,4
+334,2701564,Eco Garden Hotel,2701564,6,5,2,5,2,2,4
+335,2701508,Nginap Hotel,2701508,6,5,2,5,2,2,4
+336,2696344,OYO 439 Night Queen Hotel,2696344,6,5,2,5,2,2,4
+337,2689822,Sunway Velocity Hotel,2689822,2,2,5,1,1,6,1
+338,2689428,Sheraton Petaling Jaya Hotel,2689428,5,3,3,2,1,6,1
+339,2688792,Sofitel Kuala Lumpur Damansara,2688792,5,2,5,2,1,6,1
+340,2684165,Orkid Inn Mahkota Cheras,2684165,6,5,2,5,2,2,4
+341,2681644,ZEN Rooms Bukit Jalil,2681644,6,5,2,5,2,2,4
+342,2681574,De Ideal Hotel,2681574,6,5,2,5,2,2,4
+343,2681481,ZEN Rooms Kota Damansara,2681481,6,5,2,5,2,2,4
+344,2681084,Dash Box Hotel,2681084,3,5,2,3,4,4,3
+345,2680324,Spring Lodge Hotel Kuala Lumpur,2680324,6,5,2,5,2,2,4
+346,2679850,Grand Sri Lagenda,2679850,3,3,3,3,4,4,5
+347,2679772,Mil Design Hotel Kuala Lumpur,2679772,6,5,2,5,2,2,4
+348,2679633,Adamson Park Hotel,2679633,6,5,2,5,2,2,4
+349,2679377,Hotel Gulshan,2679377,6,5,2,5,2,2,4
+350,2677185,One Hartamas Hotel Sri Hartamas,2677185,6,5,2,5,2,2,4
+351,2677128,Matahari Lodge,2677128,6,5,2,5,2,2,4
+352,2677117,H Boutique Hotel Kota Damansara,2677117,6,5,2,5,2,2,4
+353,2676645,OYO 812 Hotel Meria,2676645,6,5,2,5,2,2,4
+354,2673915,Ran Pacific Serviced Suites & Apartments,2673915,6,5,2,5,2,2,3
+355,2669036,Element Kuala Lumpur,2669036,5,3,3,2,1,6,1
+356,2668787,ZEN Rooms Basic Bukit Bintang,2668787,6,5,2,5,2,2,3
+357,2665592,B Lot Hotel,2665592,6,5,2,5,2,2,3
+358,2665273,Laman Green The Boutique Hotel,2665273,6,5,2,5,2,2,4
+359,2664653,Palm Inn Ampang Point,2664653,6,5,2,5,2,2,4
+360,2663996,Bizz Hotel,2663996,6,5,2,5,2,2,4
+361,2663001,Urban Bird Hotel,2663001,6,5,2,5,2,2,4
+362,2662052,SIGNATURE INTERNATIONAL HOTEL @ PUDURAYA,2662052,3,3,3,3,4,4,5
+363,599880,OYO 280 Hotel Dragon Inn,599880,6,5,2,5,2,2,4
+364,599878,SUMMER SUITES RESIDENCES BY SUBHOME,599878,6,5,2,5,2,2,3
+365,599784,Orange Premier Hotel Taman Segar,599784,6,5,2,5,2,2,4
+366,599680,OYO 324 Johnshun Hotel,599680,6,5,2,5,2,2,4
+367,599679,Private Suite at Taragon,599679,6,5,2,5,2,2,4
+368,599482,Summit Signature Hotel OUG Kuala Lumpur,599482,6,5,2,5,2,2,4
+369,599481,GM Grand Moments Hotel,599481,6,5,2,5,2,2,4
+370,599453,Sri Packers Hotel,599453,6,5,2,5,2,2,4
+371,599441,Worldview Grand Hotel,599441,3,5,2,3,4,4,5
+372,599438,Fast Hotel Idaman,599438,6,5,2,5,2,2,4
+373,599332,Hotel Q Inn,599332,6,5,2,5,2,2,4
+374,599270,Hotel Shalimar,599270,6,5,2,5,2,2,4
+375,599189,Flora by Crossroads Hotel,599189,6,5,2,5,2,2,4
+376,599187,Qlassic Hotel,599187,6,5,2,5,2,2,4
+377,599181,City Edge Hotel,599181,6,5,2,5,2,2,4
+378,599049,Mingle Hostel Kuala Lumpur,599049,6,5,2,5,2,2,4
+379,599028,Premier Times International Services Studio & Hotel,599028,6,5,2,5,2,2,3
+380,596606,A&F Tropics Homestay,596606,6,5,2,5,2,2,4
+381,596595,Luxury Service Suite At Taragon KL,596595,6,5,2,5,2,2,3
+382,596583,Avenue Bangi Hotel,596583,6,5,2,5,2,2,4
+383,596557,Travelogue KL - Hostel,596557,6,5,2,5,2,2,4
+384,596549,33 Hotel Cheras,596549,6,5,2,5,2,2,4
+385,596524,City Inn Hotel,596524,6,5,2,5,2,2,4
+386,596521,Global Inn Hotel,596521,6,5,2,5,2,2,4
+387,596512,The Signature Hotel & Serviced Suites Kuala Lumpur,596512,3,3,3,3,4,4,3
+388,596412,Station Hotel Klang,596412,6,5,2,5,2,2,4
+389,596379,Bello & Bella Boutique Hotel,596379,6,5,2,5,2,2,4
+390,593885,Sim Hotel Bukit Bintang Kuala Lumpur,593885,6,5,2,5,2,2,3
+391,592790,"ANN Hotel Kuala Lumpur, Setiawangsa",592790,6,5,2,5,2,2,4
+392,592397,Adya Hotel Kuala Lumpur,592397,3,5,2,3,4,4,4
+393,590601,Day Cocoon Hotel,590601,6,5,2,5,2,2,4
+394,587128,OYO 325 Damansara Inn,587128,6,5,2,5,2,2,4
+395,584949,Duta Hotel  Residence,584949,6,5,2,5,2,2,4
+396,584944,Irsia Guesthouse,584944,6,5,2,5,2,2,4
+397,582969,ZEN Rooms Raja Chulan,582969,6,5,2,5,2,2,4
+398,582746,Tune Hotel KL PWTC,582746,3,3,3,3,4,4,5
+399,582735,ZEN Premium Hulo Hotel,582735,6,5,2,5,2,2,3
+400,582734,Geno Hotel Shah Alam,582734,5,3,3,2,1,6,1
+401,582034,Joy Inn Hotel,582034,6,5,2,5,2,2,4
+402,581561,Green Hotel Puchong,581561,6,5,2,5,2,2,4
+403,576188,Cosmo Hotel,576188,2,2,5,1,1,6,1
+404,572667,Hotel Kepong,572667,3,3,3,3,4,4,5
+405,572492,Hotel Bintang,572492,6,5,2,5,2,2,4
+406,572341,T Hotel Jalan Tar,572341,3,3,3,3,4,4,5
+407,572340,SH Hotel Pudu,572340,6,5,2,5,2,2,4
+408,572334,S-Suites at Scott Garden,572334,6,5,2,5,2,2,3
+409,572332,ZEN Premium Ampang Hilir,572332,6,5,2,5,2,2,3
+410,572331,Fast Hotel Setapak,572331,6,5,2,5,2,2,4
+411,572330,The Regency Scholars Hotel Kuala Lumpur,572330,3,3,3,3,4,4,5
+412,571818,Bintang Fairlane Residence,571818,3,5,2,3,4,4,3
+413,569511,"New Town Hotel Sunway Metro, Bandar Sunway",569511,3,5,2,3,4,4,4
+414,564147,OYO 251 Intime Hotel,564147,6,5,2,5,2,2,4
+415,564117,Sojourn Guest House,564117,6,5,2,5,2,2,4
+416,564104,Fan Holiday Hotel,564104,6,5,2,5,2,2,4
+417,564092,ZEN Rooms Basic Near KTM Sentul,564092,6,5,2,5,2,2,4
+418,564091,Hotel 57,564091,6,5,2,5,2,2,4
+419,564074,Mimilala Boutique Hotel ,564074,6,5,2,5,2,2,4
+420,564069,Sun Inns Hotel Sentral Brickfields,564069,6,5,2,5,2,2,4
+421,564061,Ampang Inn Hotel,564061,6,5,2,5,2,2,4
+422,564037,Kota Damansara Boutique Hotel,564037,6,5,2,5,2,2,4
+423,564024,Harbour Hotel,564024,6,5,2,5,2,2,4
+424,564019,Hotel de Art Section 19 Shah Alam,564019,6,5,2,5,2,2,4
+425,564004,Orange Hotels Sungai Buloh,564004,6,5,2,5,2,2,4
+426,564001,Orange Hotels Sri Petaling,564001,6,5,2,5,2,2,4
+427,563990,Crystal Garden Hotel,563990,6,5,2,5,2,2,4
+428,563984,W Studio Resort Suites at Pyramid Tower,563984,6,5,2,5,2,2,3
+429,563981,Pudu Inn Hotel,563981,6,5,2,5,2,2,4
+430,563969,GM Hotel Sunway Metro,563969,6,5,2,5,2,2,4
+431,563943,Hotel Sri Sutra - Bandar Sri Damansara,563943,6,5,2,5,2,2,4
+432,563820,EV World Hotel Kajang,563820,6,5,2,5,2,2,4
+433,563797,OYO 220 Hotel Sri Maluri,563797,6,5,2,5,2,2,4
+434,563790,Orange Premier Hotel Wangsa Maju,563790,6,5,2,5,2,2,4
+435,563786,H Boutique Hotel Sri Petaling,563786,6,5,2,5,2,2,4
+436,563771,SohoTown 2 Hotel,563771,6,5,2,5,2,2,4
+437,563693,Acappella Suite Hotel,563693,5,3,3,2,1,6,5
+438,563675,Nan Yeang Hotel,563675,3,5,2,3,4,4,5
+439,563673,OYO 410 Brickfields Park Hotel,563673,6,5,2,5,2,2,4
+440,560771,Bjorn Boutique Hotel Wangsa Maju,560771,6,5,2,5,2,2,4
+441,560137,D Boutique Hotel,560137,6,5,2,5,2,2,4
+442,557953,M Design Hotel Seri Kembangan,557953,6,5,2,5,2,2,4
+443,556652,Hotel S. Damansara,556652,3,3,3,3,4,4,5
+444,554499,7 Star Boutique Hotel,554499,6,5,2,5,2,2,4
+445,554107,Seri Rawang Hotel,554107,6,5,2,5,2,2,4
+446,554097,Sungai Besi  H1,554097,6,5,2,5,2,2,4
+447,541380,9 Square Hotel - Bangi,541380,6,5,2,5,2,2,4
+448,541369,9 Square Hotel - Subang Jaya,541369,6,5,2,5,2,2,4
+449,540830,Orange Pekoe Guesthouse,540830,6,5,2,5,2,2,4
+450,540726,OYO 502 Midah Inn Puchong,540726,6,5,2,5,2,2,4
+451,540691,KL Guest Hotel,540691,6,5,2,5,2,2,4
+452,540150,Lavana Hotel Chinatown,540150,6,5,2,5,2,2,4
+453,540136,City Comfort Inn Puchong,540136,6,5,2,5,2,2,4
+454,540111,Le Ruiz Boutique Hotel,540111,6,5,2,5,2,2,4
+455,540093,OYO 304 Zero Hour Hotel,540093,6,5,2,5,2,2,4
+456,539784,Aliya Hotel Klang,539784,3,3,3,3,4,4,3
+457,539758,Mixx Hotel,539758,6,5,2,5,2,2,4
+458,538141,Ipoh Road Hotel,538141,6,5,2,5,2,2,4
+459,537417,Sri Village Hotel Taman Muda Cheras,537417,6,5,2,5,2,2,4
+460,537380,Cardogan Hotel,537380,6,5,2,5,2,2,4
+461,536002,PODs The Backpackers Home & Cafe,536002,6,5,2,5,2,2,4
+462,535530,DE'NAI The Backpacker's Residence,535530,6,5,2,5,2,2,4
+463,535223,Hotel Lismar Subang Jaya,535223,6,5,2,5,2,2,4
+464,535215,33 Boutique Hotel,535215,6,5,2,5,2,2,4
+465,534367,OYO 414  Adiff Palace Hotel,534367,6,5,2,5,2,2,4
+466,510529,Ibis Styles Sri Damansara,510529,3,3,3,3,4,4,3
+467,508996,Le Meridien Putrajaya,508996,2,2,5,1,1,6,1
+468,499030,Ev World Hotel Bukit Bintang,499030,6,5,2,5,2,2,4
+469,497769,Lux Private Hotel,497769,6,5,2,5,2,2,4
+470,497766,Sun Inns Hotel KopKastam Kelana Jaya,497766,6,5,2,5,2,2,4
+471,497763,Best View Hotel Kelana Jaya,497763,6,5,2,5,2,2,4
+472,497758,Sunrise Hotel,497758,6,5,2,5,2,2,3
+473,497748,Kota Damansara Business Hotel,497748,6,5,2,5,2,2,4
+474,497525,Sindbad Hotel Times Square,497525,6,5,2,5,2,2,3
+475,495759,Nexus Business Suites & Hotel,495759,3,5,2,3,4,4,3
+476,493095,The St. Regis Kuala Lumpur,493095,5,3,3,2,1,6,1
+477,492382,Travel Hub Hightstreet,492382,6,5,2,5,2,2,4
+478,489622,Rumah Putih Bed and Breakfast,489622,6,5,2,5,2,2,4
+479,488354,OYO 982 Hotel SK,488354,6,5,2,5,2,2,4
+480,488326,Hotel Grand Mutiara,488326,6,5,2,5,2,2,3
+481,486267,Hotel Six Seasons,486267,6,5,2,5,2,2,4
+482,486214,Sovotel at Kelana Jaya,486214,6,5,2,5,2,2,4
+483,486211,Hotel Midtown Villa,486211,6,5,2,5,2,2,4
+484,486204,Hotel D'View Inn Bukit Bintang,486204,6,5,2,5,2,2,4
+485,485957,ZEN Rooms Damansara Uptown,485957,6,5,2,5,2,2,4
+486,485940,La Comme Country Resort,485940,6,5,2,5,2,2,3
+487,485923,Lavana Hotel Batu Caves,485923,6,5,2,5,2,2,4
+488,485922,Verdant Hill Hotel Kuala Lumpur,485922,5,3,3,2,1,6,1
+489,480024,YMCA Kuala Lumpur,480024,6,5,2,5,2,2,4
+490,480020,Rainforest Bed & Breakfast,480020,6,5,2,5,2,2,4
+491,477985,Lotus Hotel KL Sentral,477985,6,5,2,5,2,2,4
+492,477979,Backhome KL,477979,6,5,2,5,2,2,4
+493,474801,Kuchai Hotel,474801,6,5,2,5,2,2,4
+494,474655,Submarine Guest House @ Chinatown - Hostel,474655,6,5,2,5,2,2,4
+495,474624,SG PELEK HOTEL,474624,6,5,2,5,2,2,4
+496,474508,Calla Hotel,474508,6,5,2,5,2,2,4
+497,474454,Smile Hotel Wangsa Maju,474454,6,5,2,5,2,2,4
+498,473667,City Comfort Hotel Bukit Bintang,473667,3,5,2,3,4,4,5
+499,473177,Signature Hotel @ Puchong,473177,6,5,2,5,2,2,4
+500,471884,COOP Hotel Putrajaya & Cyberjaya,471884,6,5,2,5,2,2,4
+501,471858,Sens Hotel,471858,6,5,2,5,2,2,3
+502,471764,Raizzy's Guesthouse,471764,6,5,2,5,2,2,4
+503,471630,Hotel 77,471630,6,5,2,5,2,2,4
+504,471262,Alor Boutique Hotel,471262,6,5,2,5,2,2,4
+505,470259,New Town Hotel Puchong,470259,6,5,2,5,2,2,4
+506,469569,SIGNATURE  HOTEL @ LITTLE INDIA,469569,6,5,2,5,2,2,4
+507,469243,Hotel Petaling,469243,6,5,2,5,2,2,4
+508,462952,Kapitan Hill@Cempenai Parc Residences,462952,6,5,2,5,2,2,3
+509,462097,Swiss Garden Residences Kuala Lumpur,462097,2,2,5,1,5,1,2
+510,461651,Sovotel Boutique Hotel @ Uptown 101,461651,6,5,2,5,2,2,4
+511,461087,Setia Sky Residences KLCC @ Artez Maison,461087,6,5,2,5,2,2,3
+512,461059,Acappella KLCC Suites,461059,6,5,2,5,2,2,3
+513,460928,Vio Hotel Sri Petaling,460928,6,5,2,5,2,2,4
+514,460759,Plaza Premium Lounge KLIA 2,460759,6,5,2,5,2,2,4
+515,460584,OYO 827 Hotel Inap Sri Gombak,460584,6,5,2,5,2,2,4
+516,460548,1 Hotel Mahkota Cheras,460548,6,5,2,5,2,2,4
+517,460339,1 Hotel Kuchai Lama,460339,6,5,2,5,2,2,4
+518,460319,Dejaya Boutique Hotel Kuchai Lama,460319,6,5,2,5,2,2,4
+519,460250,1 Hotel Pudu Cheras,460250,6,5,2,5,2,2,4
+520,460198,Hotel New Winner,460198,6,5,2,5,2,2,4
+521,460008,RESORT SUITES HOTEL AT BANDAR SUNWAY,460008,3,5,2,3,4,4,3
+522,458587,Bukit Beruntung Business Hotel,458587,3,5,2,3,4,4,4
+523,458183,Canary Hotel,458183,6,5,2,5,2,2,4
+524,458181,Hotel Times Inn Batu Caves,458181,6,5,2,5,2,2,4
+525,457005,KK Hotel Kajang,457005,6,5,2,5,2,2,4
+526,457000,OYO 223 D' Metro Hotel,457000,6,5,2,5,2,2,4
+527,456920,LSN Hotel Taman Connaught,456920,6,5,2,5,2,2,4
+528,456883,Sovotel Boutique Hotel at Uptown 36,456883,6,5,2,5,2,2,4
+529,456875,De UPTOWN Hotel Damansara,456875,6,5,2,5,2,2,4
+530,456820,OYO 153 De Uptown Hotel 1,456820,6,5,2,5,2,2,4
+531,456541,Oasis Guest House,456541,6,5,2,5,2,2,4
+532,456462,Kameleoon Travellers Lodge,456462,6,5,2,5,2,2,4
+533,456446,Kawana Tourist Inn,456446,3,5,2,3,4,4,5
+534,456248,OYO 1002 Hotel Sahara Inn Batu Caves,456248,6,5,2,5,2,2,4
+535,455894,Kristal Rawang,455894,6,5,2,5,2,2,4
+536,455893,Hotel Sahara Rawang,455893,3,5,2,3,4,4,4
+537,455834,New Wave Ampang Point Hotel,455834,6,5,2,5,2,2,4
+538,450490,Melange Boutique Hotel,450490,6,5,2,5,2,2,4
+539,450270,1000 Miles,450270,6,5,2,5,2,2,4
+540,448731,Hotel Double Star Sepang,448731,6,5,2,5,2,2,4
+541,448331,TC Inn Capital Hotel,448331,6,5,2,5,2,2,4
+542,447981,Signature Hotel @ Bangsar,447981,6,5,2,5,2,2,4
+543,447705,Indah Alam Vacation Home,447705,6,5,2,5,2,2,4
+544,447644,Orkid Inn Puchong,447644,6,5,2,5,2,2,4
+545,445079,Mye Hotel PJ,445079,6,5,2,5,2,2,4
+546,444779,Parc Hotel Pelangi Damansara,444779,6,5,2,5,2,2,4
+547,443015,De Nice Inn,443015,6,5,2,5,2,2,4
+548,440015,Oscar Guesthouse,440015,6,5,2,5,2,2,4
+549,439779,The Zest Kinrara by Plush,439779,3,5,2,3,4,4,3
+550,439694,Orkid Inn Pudu,439694,6,5,2,5,2,2,3
+551,436966,Capsule By Container Hotel,436966,5,3,3,2,1,6,5
+552,436965,City View Hotel Sepang,436965,6,5,2,5,2,2,4
+553,435751,OYO 129 FINE Hotel,435751,6,5,2,5,2,2,4
+554,435640,Funky Huts Guest House,435640,6,5,2,5,2,2,4
+555,435638,Catherina Place,435638,6,5,2,5,2,2,4
+556,435637,A-One,435637,6,5,2,5,2,2,4
+557,435635,New Town Hotel SuBang Usj Sentral,435635,6,5,2,5,2,2,4
+558,435634,Bagasta Boutique Guesthouse,435634,6,5,2,5,2,2,4
+559,435633,Ranting Guesthouse,435633,6,5,2,5,2,2,4
+560,435630,TheTravel Hub,435630,6,5,2,5,2,2,4
+561,435627,Hotel 1915,435627,6,5,2,5,2,2,4
+562,433876,LBS Hotel,433876,6,5,2,5,2,2,4
+563,433658,Shah Alam Business Hotel,433658,6,5,2,5,2,2,4
+564,433444,Aditya Hotel,433444,6,5,2,5,2,2,4
+565,433301,Reggae Mansion Hostel,433301,6,5,2,5,2,2,4
+566,433090,Eiffel Hotel Kelana Jaya,433090,6,5,2,5,2,2,4
+567,432194,KL101 Service Suite at Soho Suites KLCC,432194,6,5,2,5,2,2,4
+568,432127,VIPOD Suites KLCC by Luxury Suites Asia,432127,6,5,2,5,2,2,4
+569,430761,Suasana Suites Bukit Ceylon,430761,6,5,2,5,2,2,3
+570,419587,Chaos Hotel,419587,6,5,2,5,2,2,4
+571,419461,Royce Hotel KL Sentral,419461,6,5,2,5,2,2,3
+572,419421,Royale City Hotel,419421,6,5,2,5,2,2,4
+573,419241,Le Garden Hotel,419241,6,5,2,5,2,2,4
+574,418960,Sun Inns Hotel @ KOI,418960,6,5,2,5,2,2,4
+575,418699,Subang Valley Hotel,418699,6,5,2,5,2,2,4
+576,418660,Subang Park Hotel,418660,6,5,2,5,2,2,4
+577,418476,Sri Puchong Hotel,418476,3,5,2,3,4,4,4
+578,418358,Hotel Galaxy,418358,6,5,2,5,2,2,4
+579,418357,GS Golden Star Hotel,418357,6,5,2,5,2,2,4
+580,418348,Moment Hotel,418348,6,5,2,5,2,2,4
+581,418278,Suntex Hotel,418278,6,5,2,5,2,2,4
+582,418021,Go Hotel Subang Jaya,418021,6,5,2,5,2,2,4
+583,417867,Bangi Gateway Hotel,417867,6,5,2,5,2,2,4
+584,417531,H Boutique Hotel Xplorer Maluri Cheras,417531,6,5,2,5,2,2,4
+585,417231,Hazzana Boutique Hotel,417231,6,5,2,5,2,2,4
+586,417216,Hotel Seri Raha,417216,6,5,2,5,2,2,4
+587,417118,Hotel 99 - Bandar Puteri Puchong,417118,6,5,2,5,2,2,4
+588,417103,Hotel 99 - SS2,417103,6,5,2,5,2,2,4
+589,416638,Resorts World Genting - Maxims Hotel,416638,4,4,4,4,5,5,2
+590,416559,Seeds Hotel Setia Wangsa,416559,6,5,2,5,2,2,4
+591,416546,Resort Hotel,416546,4,4,4,4,5,5,2
+592,416478,Hotel Royal Palm Lodge,416478,6,5,2,5,2,2,4
+593,416422,Old Penang Hotel Ampang Point,416422,6,5,2,5,2,2,4
+594,416199,Uptown Imperial Hotel,416199,6,5,2,5,2,2,4
+595,416163,EV World Hotel Sg. Besi,416163,6,5,2,5,2,2,4
+596,416026,New City Hotel,416026,6,5,2,5,2,2,4
+597,415842,Orange Hotels Kuchai Lama,415842,6,5,2,5,2,2,4
+598,414758,OYO 417 Raintree Boutique Hotel,414758,6,5,2,5,2,2,4
+599,414404,Best View Boutique Hotel Taipan USJ,414404,6,5,2,5,2,2,4
+600,414268,Your Hotel,414268,6,5,2,5,2,2,4
+601,414092,City Times Inn Hotel,414092,6,5,2,5,2,2,4
+602,414091,Smile Hotel Danau Kota,414091,6,5,2,5,2,2,4
+603,413614,EV World Hotel Enstek - KLIA,413614,6,5,2,5,2,2,4
+604,413499,Tai Ichi Hotel,413499,6,5,2,5,2,2,4
+605,413331,Desaria,413331,3,5,2,3,4,4,4
+606,413328,Renaissance Meadowlands Hotel,413328,3,3,3,3,4,4,3
+607,413310,Easy Hotel @ Ampang,413310,6,5,2,5,2,2,3
+608,412618,Capital O 623 Seri Bayu Resort Hotel,412618,3,3,3,3,4,4,5
+609,412527,De Jaya Hotel Signature Park,412527,6,5,2,5,2,2,4
+610,412089,Batu Caves Star Hotel,412089,6,5,2,5,2,2,4
+611,412040,Hotel Golden View Puchong,412040,6,5,2,5,2,2,4
+612,411842,Iris Garden Hotel Bukit Bintang,411842,6,5,2,5,2,2,4
+613,411249,Town View Hotel,411249,6,5,2,5,2,2,4
+614,411178,OYO 444 KL Empire Hotel,411178,6,5,2,5,2,2,4
+615,410667,Langit Langi Hotel,410667,6,5,2,5,2,2,3
+616,410295,New Wave Vines Hotel,410295,6,5,2,5,2,2,4
+617,409579,Batu Caves Hotel,409579,6,5,2,5,2,2,4
+618,409383,Archeotel Hotel,409383,6,5,2,5,2,2,4
+619,409227,OYO 431 Hotel De Grand Orchard,409227,6,5,2,5,2,2,4
+620,409038,Best View Hotel Kota Damansara 2,409038,6,5,2,5,2,2,4
+621,408914,Smile Hotel Cheras Pudu KL,408914,6,5,2,5,2,2,4
+622,408859,Mangga,408859,6,5,2,5,2,2,3
+623,408725,Kajang Star Hotel,408725,6,5,2,5,2,2,4
+624,408705,Melawati H1,408705,6,5,2,5,2,2,4
+625,408688,New Rawang Hotel,408688,6,5,2,5,2,2,4
+626,408524,1st Inn Hotel Subang Jaya (SJ 15),408524,6,5,2,5,2,2,4
+627,408384,Bary Inn Klia,408384,3,3,3,3,4,4,5
+628,407849,"Hotel Seri Malaysia Bagan Lalang, Sepang",407849,3,5,2,3,4,4,4
+629,407631,Ev World Hotel Shah Alam 2,407631,6,5,2,5,2,2,4
+630,402428,M Design Hotel @ Shamelin Perkasa,402428,6,5,2,5,2,2,4
+631,402396,Sovotel Boutique Hotel,402396,6,5,2,5,2,2,4
+632,402385,Koptown Hotel Kuala Lumpur,402385,6,5,2,5,2,2,4
+633,402337,Lantern Hotel,402337,6,5,2,5,2,2,4
+634,402286,Hotel Mezzo,402286,6,5,2,5,2,2,4
+635,402170,OYO 127 The Reeds Hotel,402170,6,5,2,5,2,2,4
+636,402156,MAX Hotel Subang Jaya,402156,6,5,2,5,2,2,4
+637,402044,YY48 Hotel,402044,3,5,2,3,4,4,4
+638,402015,OYO 156 YP Boutique Hotel,402015,6,5,2,5,2,2,4
+639,401881,Uptown Kajang Hotel,401881,6,5,2,5,2,2,4
+640,401825,Hotel Strawberry Fields,401825,6,5,2,5,2,2,4
+641,401666,Hotel Westree,401666,6,5,2,5,2,2,4
+642,401595,De Elements Business Hotel,401595,6,5,2,5,2,2,3
+643,401515,Etika Inn,401515,6,5,2,5,2,2,3
+644,401358,Biz Hotel Shah Alam,401358,6,5,2,5,2,2,4
+645,401357,Gold 3 Boutique Hotel,401357,6,5,2,5,2,2,4
+646,401308,Casa Hotel,401308,6,5,2,5,2,2,4
+647,400990,Hote123,400990,6,5,2,5,2,2,4
+648,400941,Time Hotel Sunway,400941,6,5,2,5,2,2,4
+649,400875,GoodHope Hotel Kelana Mall Kuala Lumpur,400875,6,5,2,5,2,2,4
+650,400747,Hotel Wonderful Equine Park,400747,6,5,2,5,2,2,4
+651,400712,City Residence Shah Alam Hotel,400712,6,5,2,5,2,2,4
+652,400636,Paloma Inn,400636,6,5,2,5,2,2,4
+653,400173,Hanson Hotel,400173,6,5,2,5,2,2,4
+654,400030,Hotel Sri Sutra - PJ Jalan 227,400030,6,5,2,5,2,2,4
+655,400014,33 Star Hotel,400014,6,5,2,5,2,2,4
+656,399869,1 Hotel Taman Connaught,399869,6,5,2,5,2,2,4
+657,399862,Dream Inn Hotel,399862,6,5,2,5,2,2,4
+658,399717,MAPLE INN,399717,6,5,2,5,2,2,4
+659,399525,Putra Kajang Star Hotel,399525,6,5,2,5,2,2,4
+660,399468,Festival Boutique Hotel @ Setapak,399468,6,5,2,5,2,2,4
+661,399304,De UPTOWN Hotel PJ 222,399304,6,5,2,5,2,2,4
+662,399158,First & New Star Hotel,399158,6,5,2,5,2,2,4
+663,398904,Hajj Complex Kelana Jaya,398904,6,5,2,3,4,4,4
+664,398493,Hotel Premier,398493,6,5,2,5,2,2,4
+665,398169,Rujia Inn,398169,6,5,2,5,2,2,4
+666,398067,U Pac Hotel,398067,6,5,2,5,2,2,4
+667,397948,Seniman Sentul,397948,6,5,2,5,2,2,4
+668,397947,De UPTOWN Hotel Subang Jaya,397947,6,5,2,5,2,2,4
+669,397915,Bjorn Boutique Hotel Taman Danau Desa,397915,6,5,2,5,2,2,4
+670,397892,The Leverage Business Hotel (Rawang),397892,6,5,2,5,2,2,3
+671,397845,1hotel Pudu Ulu,397845,6,5,2,5,2,2,4
+672,397822,Hartamas Business Hotel,397822,6,5,2,5,2,2,4
+673,397821,New Wave Klcc Hotel,397821,6,5,2,5,2,2,4
+674,397667,Cosmic Boutique Hotel,397667,6,5,2,5,2,2,4
+675,397584,Happy Holiday Hotel,397584,6,5,2,5,2,2,4
+676,397581,Ml Inn Hotel,397581,6,5,2,5,2,2,4
+677,397297,Yy318 Hotel,397297,3,5,2,3,4,4,4
+678,397265,Marvelot Hotel,397265,6,5,2,5,2,2,4
+679,397242,Hotel Centum,397242,6,5,2,5,2,2,4
+680,397045,The Room Hotel,397045,6,5,2,5,2,2,4
+681,396905,GoodHope Hotel Kelana Jaya,396905,6,5,2,5,2,2,4
+682,396640,Hotel Al Jafs,396640,6,5,2,5,2,2,4
+683,396536,Pristine Hotel,396536,6,5,2,5,2,2,4
+684,396210,Eco Hotel Putra Kajang,396210,6,5,2,5,2,2,4
+685,395649,Hotel Mincott,395649,6,5,2,5,2,2,4
+686,395621,Gombak Star Hotel,395621,6,5,2,5,2,2,4
+687,395612,Batu Caves Budget Hotel,395612,6,5,2,5,2,2,4
+688,395419,Surya,395419,6,5,2,5,2,2,4
+689,395267,Mayview Glory Hotel,395267,6,5,2,5,2,2,4
+690,394769,Time Hotel Kuchai Lama,394769,6,5,2,5,2,2,4
+691,394669,Ufo Capsule Hotel,394669,6,5,2,5,2,2,4
+692,394604,1st Inn Hotel Shah Alam (SA20),394604,6,5,2,5,2,2,4
+693,394601,1st Inn Hotel Glenmarie,394601,6,5,2,5,2,2,4
+694,394434,Perfect Class,394434,6,5,2,5,2,2,4
+695,394079,OYO 615 Dragon Inn Premium Hotel,394079,6,5,2,5,2,2,4
+696,393938,Hotel Putra Kuala Lumpur,393938,3,5,2,3,4,4,5
+697,393867,City Park Hotel Kuala Lumpur,393867,3,3,3,3,4,4,5
+698,380270,WP Hotel Kuala Lumpur,380270,3,3,3,3,4,4,3
+699,379621,Sun Inns D'mind 3 Seri Kembangan,379621,6,5,2,5,2,2,4
+700,379560,Hotel Pudu Bintang Kuala Lumpur,379560,6,5,2,5,2,2,4
+701,378621,Damai 11 Residence @ KLCC,378621,6,5,2,5,2,2,4
+702,378620,Daffodils Park Kl Hotel,378620,6,5,2,5,2,2,4
+703,378617,Comfort Lodge,378617,6,5,2,5,2,2,4
+704,378616,Comfort Inn,378616,6,5,2,5,2,2,4
+705,378615,Columbia Hotel,378615,3,3,3,3,4,4,5
+706,378614,Classic Inn,378614,6,5,2,5,2,2,4
+707,378613,OYO 193 City Kuchai Hotel,378613,6,5,2,5,2,2,4
+708,378612,OYO 419 City Boutique Hotel,378612,6,5,2,5,2,2,4
+709,378611,Casavilla Hotel,378611,3,5,2,3,4,4,4
+710,378610,Casavilla Travellers Lodge  Petaling Jaya,378610,6,5,2,5,2,2,4
+711,378609,Casa villa Selayang,378609,6,5,2,5,2,2,4
+712,378608,Casavilla Hotel  Rawang,378608,6,5,2,5,2,2,4
+713,378607,Budget Hotel EST Com Kuala Lumpur,378607,6,5,2,5,2,2,4
+714,378606,Best View Hotel Sunway Mentari,378606,6,5,2,5,2,2,4
+715,378605,Best View Hotel Subang Jaya,378605,6,5,2,5,2,2,4
+716,378604,Best View Hotel SS2,378604,6,5,2,5,2,2,4
+717,378603,Best View Hotel Sri Petaling,378603,6,5,2,5,2,2,4
+718,378602,Best View Hotel Sri Hartamas,378602,6,5,2,5,2,2,4
+719,378601,Best View Hotel Shah Alam,378601,6,5,2,5,2,2,4
+720,378600,Best View Hotel Puchong,378600,6,5,2,5,2,2,4
+721,378599,Best View Hotel Kota Damansara,378599,6,5,2,5,2,2,4
+722,378598,Best View Hotel Bangi,378598,6,5,2,5,2,2,4
+723,378597,Best View Hotel Bandar Sunway,378597,6,5,2,5,2,2,4
+724,378596,Beltif Hotel,378596,6,5,2,5,2,2,3
+725,378595,Aura Hotel Bukit Bintang,378595,6,5,2,5,2,2,4
+726,378592,Alami Garden Hotel,378592,6,5,2,5,2,2,4
+727,378591,Hotel 12Fly,378591,6,5,2,5,2,2,3
+728,378590,101 Lake View Hotel Puchong,378590,6,5,2,5,2,2,4
+729,378534,Winsin Hotel Chinatown,378534,6,5,2,5,2,2,4
+730,378528,The Verve Hotel PJ Damansara,378528,6,5,2,5,2,2,4
+731,378526,The Tree Boutique Hotel,378526,6,5,2,5,2,2,4
+732,378525,The Green Hotel Taman Maluri,378525,6,5,2,5,2,2,4
+733,378524,The Green Hotel Ampang Waterfront,378524,6,5,2,5,2,2,4
+734,378523,Swiss Cottage Hotel,378523,6,5,2,5,2,2,4
+735,378522,Swan Cottage Hotel,378522,6,5,2,5,2,2,4
+736,378521,Sunbow Hotel Residency,378521,6,5,2,5,2,2,4
+737,378520,Sun Inns Hotel Kepong,378520,6,5,2,5,2,2,4
+738,378519,"Sun Inns Hotel Equine,Seri Kembangan",378519,6,5,2,5,2,2,4
+739,378518,Sun Inns Hotel Cheras,378518,6,5,2,5,2,2,4
+740,378517,Sun Inns Hotel Bandar Puchong Utama,378517,6,5,2,5,2,2,4
+741,378516,Submarine Guest House,378516,6,5,2,5,2,2,4
+742,378515,Step Inn Guest House,378515,6,5,2,5,2,2,4
+743,378514,Starcastle Golden Palace Hotel,378514,6,5,2,5,2,2,3
+744,378513,Sri Enstek Hotel,378513,6,5,2,5,2,2,3
+745,378512,Smile Boutique Hotel,378512,6,5,2,5,2,2,4
+746,378510,Smart Hotel Shah Alam Seksyen 15,378510,6,5,2,5,2,2,4
+747,378509,Smart Hotel Reko Sentral Kajang,378509,6,5,2,5,2,2,4
+748,378507,Smart Hotel Bangi Seksyen 9,378507,6,5,2,5,2,2,4
+749,378505,Signature Hotel KL Sentral,378505,6,5,2,5,2,2,3
+750,378504,Shaftsbury Serviced Residences,378504,3,3,3,3,4,4,3
+751,378502,Sahara Hotel Selayang,378502,6,5,2,5,2,2,4
+752,378501,Safari Hotel,378501,6,5,2,5,2,2,3
+753,378500,Sabrina Golden Palace Hotel,378500,6,5,2,5,2,2,3
+754,378499,Ryokan @ Damansara Uptown,378499,6,5,2,5,2,2,3
+755,378497,Richbaliz,378497,6,5,2,5,2,2,3
+756,378496,RHR Hotel at Uniten,378496,3,3,3,3,4,4,3
+757,378495,Putra One Avenue Hotel,378495,6,5,2,5,2,2,4
+758,378494,Puteri Ampang Hotel,378494,6,5,2,5,2,2,4
+759,378493,Puri Pujangga Hotel,378493,6,5,2,5,2,2,3
+760,378491,Petaling Street Hotel Chinatown,378491,6,5,2,5,2,2,4
+761,378490,Pegasus Inn Shah Alam,378490,6,5,2,5,2,2,4
+762,378487,One Avenue Hotel Balakong,378487,6,5,2,5,2,2,4
+763,378486,One Avenue,378486,3,5,2,3,4,4,4
+764,378483,Number Eight Guest House,378483,6,5,2,5,2,2,4
+765,378481,New Wave Sri Hartamas,378481,6,5,2,5,2,2,4
+766,378480,New Wave Sgbuloh,378480,6,5,2,5,2,2,4
+767,378479,New Wave Rawang Hotel,378479,6,5,2,5,2,2,4
+768,378477,New Wave Hotel Sdn Bhd Melawati H2,378477,6,5,2,5,2,2,4
+769,378476,New Town Hotel Sunway Mentari,378476,6,5,2,5,2,2,4
+770,378472,Nana's Inn Bukit Bintang,378472,6,5,2,5,2,2,4
+771,378469,My Hotel @  Kl Sentral,378469,3,5,2,3,4,4,3
+772,378467,OYO 843 My Home Hotel Taman Connaught,378467,6,5,2,5,2,2,4
+773,378466,My Home Hotel Setapak,378466,6,5,2,5,2,2,4
+774,378465,My Home Hotel Prima Sri Gombak,378465,6,5,2,5,2,2,4
+775,378464,OYO 838 My Home Hotel Pekeliling,378464,6,5,2,5,2,2,4
+776,378463,OYO 343 My Home Hotel Kuchai Lama,378463,6,5,2,5,2,2,4
+777,378461,My Home Hotel Cheras Selatan,378461,6,5,2,5,2,2,4
+778,378460,Media Hotel,378460,6,5,2,5,2,2,4
+779,378458,M Design Hotel,378458,6,5,2,3,2,2,4
+780,378454,Kuala Lumpur International Hotel,378454,2,2,5,1,1,6,1
+781,378453,OYO 424 KK Inn Hotel,378453,6,5,2,5,2,2,4
+782,378450,Izumi Hotel @ 2,378450,6,5,2,5,2,2,4
+783,378449,Izumi Hotel Balakong,378449,3,3,3,3,4,4,5
+784,378447,i-Hotel @ Kota Damansara,378447,6,5,2,5,2,2,4
+785,378446,Citylight Hotel,378446,6,5,2,5,2,2,4
+786,378445,I Boutique Hotel,378445,6,5,2,5,2,2,4
+787,378443,Sempurna,378443,6,5,2,5,2,2,4
+788,378377,101 Bangi Hotel,378377,6,5,2,5,2,2,4
+789,378375,9 Square Hotel,378375,6,5,2,5,2,2,4
+790,378374,MH Hotel & Residences Kuala Lumpur,378374,3,3,3,3,4,4,3
+791,378371,City View Hotel Sunway,378371,6,5,2,5,2,2,4
+792,377665,Zodiac Golden Palace Hotel Bukit Bintang,377665,6,5,2,5,2,2,3
+793,377658,China Town Boutique Hotel,377658,6,5,2,5,2,2,4
+794,376782,Sun Inns Hotel Kelana Jaya,376782,6,5,2,5,2,2,4
+795,376362,Primera Residences & Business Suites,376362,3,5,2,3,4,4,3
+796,374950,Grid 9,374950,6,5,2,5,2,2,4
+797,374945,D'OR Hotel,374945,6,5,2,5,2,2,4
+798,369564,The Mesui Hotel,369564,6,5,2,5,2,2,3
+799,366352,Eighty-Eight Inn,366352,6,5,2,5,2,2,4
+800,364067,Leo Leisure Hotel,364067,6,5,2,5,2,2,4
+801,364065,DengBa Hostel,364065,6,5,2,5,2,2,4
+802,362556,Metro Hotel  Kl Sentral,362556,3,5,2,3,4,4,4
+803,362555,Gds,362555,6,5,2,5,2,2,4
+804,362165,OYO 339 Victory Exclusive Hotel,362165,6,5,2,5,2,2,4
+805,362158,Love Inn Boutique Hotel,362158,6,5,2,5,2,2,4
+806,359360,New Wave Shah Alam Hotel,359360,6,5,2,5,2,2,4
+807,359118,Metro Hotel Bukit Bintang,359118,3,3,3,3,4,4,3
+808,355184,Ambassador,355184,6,5,2,5,2,2,3
+809,355183,Sungei Wang Hotel,355183,6,5,2,5,2,2,4
+810,349642,V Hotel,349642,6,5,2,5,2,2,4
+811,338124,Premiera Hotel Kuala Lumpur.,338124,3,5,2,3,4,4,4
+812,324376,Sun Inns Hotel Sunway Mentari,324376,3,3,3,3,4,4,5
+813,320059,The Yard Boutique Hotel,320059,6,5,2,5,2,2,4
+814,319875,Ray Parc Hotel,319875,3,5,2,3,4,4,3
+815,312375,Resorts World Genting - Theme Park Hotel,312375,2,2,5,1,5,1,5
+816,273532,Seri Malaysia Genting Highlands,273532,3,3,3,3,4,4,5
+817,265317,Carlton Holiday Hotel  Suites,265317,3,3,3,3,4,4,5
+818,265316,Bintang Garden Hotel,265316,6,5,2,5,2,2,4
+819,265313,Dorsett Regency (Sri Jati Apartment),265313,2,2,5,1,1,6,1
+820,265309,Mirama Hotel,265309,3,5,2,3,4,4,4
+821,261728,Upperview â€“ Regalia Suites & Residences,261728,3,3,3,3,4,4,3
+822,252971,Ibis Styles Kl Cheras,252971,3,3,3,3,4,4,3
+823,237430,EV World Hotel (Subang Jaya),237430,6,5,2,5,2,2,4
+824,233974,Hotel de Art Section 7 Shah Alam,233974,6,5,2,5,2,2,4
+825,233973,Ev World Hotel Shah Alam 1,233973,6,5,2,5,2,2,4
+826,232717,JJ Boutique Hotel SS2,232717,6,5,2,5,2,2,4
+827,232716,JJ Boutique Hotel Kota Damansara,232716,6,5,2,5,2,2,4
+828,231244,OYO 486 Victory 2 Boutique Hotel,231244,6,5,2,5,2,2,4
+829,231239,Orion Design Hotel,231239,6,5,2,5,2,2,4
+830,231236,V Garden Hotel,231236,6,5,2,5,2,2,4
+831,231234,Ampang Point Star Hotel,231234,6,5,2,5,2,2,4
+832,231233,Lacomme Inn,231233,6,5,2,5,2,2,3
+833,231232,Swiss Hotel,231232,3,3,3,3,4,4,3
+834,231230,EV World Sri Petaling,231230,6,5,2,5,2,2,4
+835,231225,Sun Inns Hotel Seri Kembangan D'Mind 2,231225,6,5,2,5,2,2,4
+836,231224,City Campus Lodge & Hotel,231224,5,3,3,2,1,6,1
+837,219844,Sky Hotel Selayang,219844,6,5,2,5,2,2,4
+838,219676,De Palma Hotel Shah Alam,219676,3,5,2,3,4,4,3
+839,219472,Sun Inns Hotel Kota Damansara,219472,6,5,2,5,2,2,4
+840,219471,Shah's Village,219471,3,5,2,3,4,4,4
+841,217869,YY38 Hotel,217869,3,3,3,3,4,4,5
+842,217867,Wedgewood Serviced Residences Mont Kiara,217867,3,3,3,3,4,4,3
+843,217866,The Villas At Sunway Resort Hotel & Spa,217866,2,2,5,1,5,1,1
+844,217863,Sun Inns Hotel Puchong One,217863,3,5,2,3,4,4,5
+845,217862,Sun Inns Hotel Lagoon Sunway,217862,3,3,3,3,4,4,5
+846,217860,Sun Inns Hotel D'mind 1 Seri Kembangan,217860,6,5,2,5,2,2,4
+847,217859,Hotel Sri Petaling,217859,3,3,3,3,4,4,3
+848,217857,Replica Inn Bukit Bintang,217857,6,5,2,5,2,2,4
+849,217853,Palace Hotel Sdn Bhd,217853,3,5,2,3,4,4,3
+850,217851,Oriental Crystal,217851,3,3,3,3,4,4,3
+851,217845,Ibiz Hotel,217845,6,5,2,5,2,2,4
+852,217840,First Business Inn,217840,3,5,2,3,4,4,5
+853,217838,De Palma Hotel Kuala Selangor,217838,6,5,2,5,2,2,3
+854,217837,Simms Boutique Hotel Bukit Bintang,217837,6,5,2,5,2,2,3
+855,217836,Crystal Crown Petaling Jaya,217836,5,2,5,2,1,6,1
+856,217835,Crystal Crown Kuala Lumpur,217835,5,3,3,2,1,6,5
+857,217834,Hotel Caliber Kuala Lumpur,217834,3,3,3,3,4,4,5
+858,217832,ZEN Rooms Basic Sentul Kuala Lumpur,217832,3,5,2,3,4,4,4
+859,217829,Adamson Hotel Kuala Lumpur,217829,3,3,3,3,4,4,5
+860,216779,D'New 1 Hotel at Sunway,216779,6,5,2,5,2,2,4
+861,216777,Hotel Alibaba Bukit Bintang,216777,6,5,2,5,2,2,4
+862,216775,The Nomad Residences Bangsar,216775,6,5,2,5,2,2,3
+863,216774,M Joy,216774,6,5,2,5,2,2,4
+864,215339,The Maple Suite,215339,3,5,2,3,4,4,3
+865,203666,Villa Samadhi,203666,6,5,2,5,2,2,3
+866,194518,Premiere Hotel,194518,5,3,3,2,1,6,1
+867,192705,Palm Garden Hotel IOI Resort,192705,3,3,3,3,4,4,3
+868,188664,Tune Hotel KLIA Aeropolis (Airport Hotel),188664,5,3,3,2,1,6,1
+869,188655,Hotel China Town 2 Kuala Lumpur,188655,6,5,2,5,2,2,3
+870,186314,Anggun Boutique Hotel,186314,6,5,2,5,2,2,3
+871,176586,Puteri Park,176586,5,3,3,2,1,6,1
+872,175705,Phoenix Hotel,175705,6,5,2,5,2,2,3
+873,174674,City Hotel,174674,6,5,2,5,2,2,3
+874,168220,China Town Inn,168220,6,5,2,5,4,4,3
+875,166264,Hotel Armada Petaling Jaya,166264,5,3,3,2,1,6,1
+876,113823,The Royale Chulan Kuala Lumpur,113823,2,2,5,1,1,6,1
+877,108550,Flamingo Hotel by The Lake,108550,5,3,3,2,1,6,1
+878,79731,Corona Inn Hotel Kuala Lumpur,79731,3,3,3,3,4,4,3
+879,71337,Oakwood Hotel & Residence Kuala Lumpur,71337,5,3,3,2,1,6,1
+880,71163,Cyberview Resort & Spa,71163,3,3,3,3,4,4,3
+881,69904,Putrajaya Marriott Hotel,69904,2,2,5,1,5,1,2
+882,68634,Wira,68634,3,3,3,3,4,4,3
+883,68622,The Plaza Hotel,68622,3,3,3,3,4,4,5
+884,68616,Grand Central Kuala Lumpur ,68616,3,3,3,3,4,4,3
+885,68011,Genting Grand,68011,4,4,4,4,5,5,2
+886,66727,Travelodge Bukit Bintang,66727,3,3,3,3,4,4,3
+887,64673,Philea Mines Beach Resort,64673,3,3,3,2,4,4,3
+888,36382,Palace of the Golden Horses Mines Kuala Lumpur,36382,2,2,5,1,5,1,2
+889,18701,Sunway Pyramid Hotel,18701,4,4,4,4,5,1,2
+890,12205,"Impiana KLCC Hotel, Kuala Lumpur City Centre",12205,2,2,5,1,5,1,2
+891,9578,Dorsett Residence Bukit Bintang,9578,6,5,2,5,2,2,4
+892,8459,City Villa Kuala Lumpur,8459,5,3,3,2,1,6,5
