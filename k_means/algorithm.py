@@ -4,9 +4,11 @@ import matplotlib.pyplot as plt
 from scipy.spatial.distance import cdist
 
 import pandas
+
 fname = "../db1.csv"
-csv = pandas.io.parsers.read_csv('../db1.csv')
-R = np.genfromtxt(fname, delimiter=',', names=True)
+csv = pandas.read_csv('../db1.csv')
+
+print(csv.values.shape)
 
 np.random.seed(11)
 
@@ -91,14 +93,13 @@ def kmeans(X, K):
 # print('Centers found by our algorithm:')
 # print(centers[-1])
 
-# kmeans_display(X, labels[-1])
 
 # Kmeans from sklearn
 from sklearn.cluster import KMeans
 
-kmeans_sklearn = KMeans(n_clusters=3, random_state=0).fit(R)
+kmeans_sklearn = KMeans(n_clusters=3, random_state=0).fit(csv.values)
 print('Centers found by scikit-learn:')
 print(kmeans_sklearn.cluster_centers_)
-pred_label = kmeans_sklearn.predict(R)
+pred_label = kmeans_sklearn.predict(csv.values)
 
 # kmeans_display(X, pred_label)
